@@ -1,0 +1,23 @@
+{
+  "name": "helper-interpolate",
+  "version": "1.0.0",
+  "description": "Handlebars helper for string interpolation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casr/helper-interpolate.git"
+  },
+  "keywords": [
+    "handlebars",
+    "helper"
+  ],
+  "author": "Chris Rawnsley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casr/helper-interpolate/issues"
+  },
+  "homepage": "https://github.com/casr/helper-interpolate#readme"
+}
